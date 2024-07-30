@@ -1,0 +1,25 @@
+
+{
+    "version": "0.2.0",
+    "compounds": [
+        {
+            "name": "Compound", 
+            "configurations": [ 
+                                "Run Jupyter"
+                            ] 
+        }
+    ], 
+    "configurations": [      
+        // Run Jupyter 
+        {
+            "name": "Run Jupyter",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/.env/Scripts/jupyter-notebook.exe",
+            "cwd": "${workspaceFolder}/",
+            "python": "${workspaceFolder}/.env/Scripts/python",
+            "justMyCode": true
+        }    
+        
+    ]
+}
