@@ -83,7 +83,7 @@ No additional steps are needed. Simply toggle the 'RUN AND DEBUG' icon in VSCode
 1. Rename the configuration file:
 
    ```plaintext
-   Rename ".vscode/launch-Windwos.json" to ".vscode/launch.json"
+   Rename ".vscode/launch-Windows.json" to ".vscode/launch.json"
    ```
 
 2. Delete the old configuration file if necessary.
