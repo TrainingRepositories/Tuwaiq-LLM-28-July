@@ -5,3 +5,11 @@ spacy
 gensim
 nltk
 matplotlib
+
+# day3
+scikit-learn==1.3.2
+pandas
+
+ydata_profiling
+ipywidgets
+Pillow
