@@ -13,3 +13,13 @@ pandas
 ydata_profiling
 ipywidgets
 Pillow
+
+# day 4
+# sentence_transformers==3.0.1
+
+# day 5
+# langchain-community==0.2.10
+
+# w2d2
+openai
+unstructured

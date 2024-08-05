@@ -1,3 +1,4 @@
 .env/*
+*.env.json
 *-checkpoint.ipynb
 HandsLab/Day3/kaggle/kaggle.json
