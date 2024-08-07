@@ -2,3 +2,5 @@
 *.env.json
 *-checkpoint.ipynb
 HandsLab/Day3/kaggle/kaggle.json
+HandsLab/w2-d3/ar_reviews_100k.tsv
+HandsLab/w2-d3/faiss/Hotel_Reviews.csv
