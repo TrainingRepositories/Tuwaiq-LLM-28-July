@@ -22,4 +22,8 @@ Pillow
 
 # w2d2
 openai
-unstructured
+
+
+# w2d3
+faiss-cpu
+
